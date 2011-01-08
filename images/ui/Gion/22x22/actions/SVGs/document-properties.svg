@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43+0.44pre3"
+   version="1.0"
+   sodipodi:docbase="/home/silvestre/candido/22x22"
+   sodipodi:docname="properties.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2807">
+      <stop
+         style="stop-color:#888a85;stop-opacity:1;"
+         offset="0"
+         id="stop2809" />
+      <stop
+         style="stop-color:#888a85;stop-opacity:0;"
+         offset="1"
+         id="stop2811" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2770">
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1;"
+         offset="0"
+         id="stop2772" />
+      <stop
+         style="stop-color:#e2e2de;stop-opacity:1"
+         offset="1"
+         id="stop2774" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2770"
+       id="linearGradient2776"
+       x1="11.0625"
+       y1="8.8123255"
+       x2="11.0625"
+       y2="20.000187"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2807"
+       id="radialGradient2813"
+       cx="13.268055"
+       cy="14.031731"
+       fx="13.268055"
+       fy="14.031731"
+       r="6.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.115734,0,0,2.115734,-13.94668,-15.06241)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="false"
+     width="22px"
+     height="22px"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="836"
+     inkscape:window-height="572"
+     inkscape:window-x="105"
+     inkscape:window-y="84" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient2776);fill-opacity:1.0;stroke:#a0a69c;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1878"
+       width="15.000001"
+       height="16.999996"
+       x="3.5000005"
+       y="2.4999995" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:white;stroke-width:0.9999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1880"
+       width="13.000006"
+       height="14.999998"
+       x="4.500001"
+       y="3.499994" />
+    <path
+       style="opacity:0.7;fill:url(#radialGradient2813);fill-opacity:1.0;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50279332"
+       d="M 12.9375 7 L 10.84375 7.53125 L 10.46875 9.375 C 9.3829055 10.03989 8.5628236 10.999483 8.0625 12.125 L 6.09375 12.78125 L 6 15.0625 L 7.6875 16 C 7.699939 16.051156 7.7049203 16.105127 7.71875 16.15625 C 8.0653553 17.437526 8.8164511 18.525376 9.78125 19.3125 L 9.8125 20 L 16.6875 20 C 16.88009 19.898574 17.07198 19.804679 17.25 19.6875 L 18.59375 20 L 19 20 L 19 9.28125 L 17.46875 9.59375 C 16.548162 8.9365049 15.437238 8.5607193 14.28125 8.46875 L 12.9375 7 z M 13.59375 11.78125 C 14.914291 11.705559 16.146639 12.537505 16.5 13.84375 C 16.903838 15.336604 16.017942 16.884084 14.5 17.28125 C 12.982057 17.678415 11.40384 16.774104 11 15.28125 C 10.596159 13.788397 11.513307 12.272166 13.03125 11.875 C 13.220993 11.825354 13.405101 11.792063 13.59375 11.78125 z "
+       id="path1883" />
+  </g>
+</svg>
