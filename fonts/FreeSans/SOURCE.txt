@@ -1,0 +1,3 @@
+Retrieved from: http://savannah.gnu.org/projects/freefont/
+License: GPL v3 with document exception
+Note: Separated for convenience
