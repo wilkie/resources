@@ -1,0 +1,42 @@
+Dropline Nuovo! v0.5
+
+A Scalable Vector Graphic (SVG) icon set for GNOME Desktop.
+
+Released under the terms of the GNU General Public License version 2
+check the COPYING file for more info about the license.
+
+BIG thanks to Zach Borgerding (zborgerd) for hosting all of the artwork
+and all those silly things arround the FTP that i draw, heh.
+
+##		-------			##
+
+NOTE for 0.4:
+
+This release includes some PNG icons for evolution stock icons.
+It seems that evolution isn't loading ANY of the SVG stock icons, so
+you can find the PNGs in 24x24/stock/evolution
+those same icons are available in scalable/stock for you to modify
+sorry for choosing this way, but is the only one i've found so far.
+
+you can also find icons for GNOME Baker in Xtra directory, along
+with instructions on how to install them. some icons for iRiver devices
+IHP-120, IPF-880 and H10 to replace 'gnome-dev-ipod'.
+
+*** Mozilla Firefox Theme ***
+
+yes, a theme for Mozilla Firefox is available :), you can get it at
+
+http://www.droplinegnome.org/home/ertz/ARTWork/firefox
+
+it isn't included in this package for the simple reason that this is
+a GNOME icon set, so i'm trying not to get too off-topic...
+this is my first firefox theme, so be gentle, heh.
+
+##		-------			##
+
+
+
+
+______________________________________________________________
+
+Have fun!, if you have any questions check the AUTHORS file :)

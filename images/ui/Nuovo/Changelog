@@ -1,0 +1,52 @@
+0.5 (Dec, 2005)
+
+* lots of new icons, about 150...
+  some highlights:
+    MMC/SD and some other media formats like this
+    improved floppy drive
+    battery icon
+    new filesystems, for block/char devs and sockets
+
+* new emblems
+
+* emblems now support translations, so you don't 
+  have to guess what does a bad designed icon mean ;)
+  
+* new gaim icons, just like in 0.4, you'll need to
+  replace some files.
+  
+* text in mimetypes now is bigger so you can read
+  it without your glasses :P
+
+0.4 (Oct 20, 2005)
+
+* This release includes some PNG icons for evolution 
+  stock icons. It seems that evolution isn't loading 
+  ANY of the SVG stock icons, so   you can find the 
+  PNGs in 24x24/stock/evolution those same icons are 
+  available in scalable/stock for you to modify sorry 
+  for choosing this way, but is the only one i've found 
+  so far.
+  
+* stock icons for GNOME Baker in Xtra directory
+
+* icons for iRiver devices IHP-120, IPF-880 and H10 to 
+  replace 'gnome-dev-ipod'.
+
+0.3 (Oct 4, 2005)
+
+* 34 new icons, more emblems... 
+
+* reworked many icons in every category (apps, 
+  emblems, devices, filesystems, mimetypes, stock). 
+
+0.2 (Date)
+
+* many many new icons (by many i mean 133).
+
+* like bvc suggested, i've used vacuum defs, so filesize 
+  has decreased a lot.
+
+0.1 (Date)
+
+* initial release.
